@@ -3,7 +3,7 @@ import { FaGithub, FaExternalLinkAlt, FaYoutube } from "react-icons/fa";
 
 const projects = [
   {
-    title: "My Shopee",
+    title: "POKEDEX",
     description:
       "a api based pokemon information web app which is responsive and it gives 648 pokemon details .",
     tags: ["React", "Tailwind CSS", "Poke Api"],

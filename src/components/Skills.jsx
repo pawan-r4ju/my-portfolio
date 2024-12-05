@@ -23,7 +23,7 @@ const skills = [
   { name: "React", icon: FaReact, color: "#61DAFB" },
   { name: "Node.js", icon: FaNodeJs, color: "#339933" },
   { name: "MongoDB", icon: SiMongodb, color: "#47A248" },
-  { name: "Express", icon: SiExpress, color: "#000000" },
+  { name: "Express", icon: SiExpress, color: "#F7DF1E" },
   { name: "JavaScript", icon: SiJavascript, color: "#F7DF1E" },
   { name: "Tailwind CSS", icon: SiTailwindcss, color: "#06B6D4" },
   { name: "Git", icon: FaGitAlt, color: "#F05032" },
