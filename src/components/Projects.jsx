@@ -9,7 +9,7 @@ const projects = [
     tags: ["React", "Tailwind CSS", "Poke Api"],
     github: "https://github.com/pawan-r4ju/Pokedex_Reactjs",
     demo: "https://pawan-r4ju.github.io/Pokedex_Reactjs/",
-    image: "pokedex.png",
+    image: "pokemon",
   },
   {
     title: "THE MOVIES HUB",
