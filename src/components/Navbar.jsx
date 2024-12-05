@@ -44,7 +44,7 @@ function Navbar() {
             whileHover={{ scale: 1.1 }}
             className="text-xl font-bold text-primary"
           ><div className='flex gap-2'>
-            <img src="mid-blue-profile.jpg" alt="Small Circular Pic" className="w-12 h-12 rounded-xl mt-4" />
+            <img src="assets/mid-blue-profile.jpg" alt="Small Circular Pic" className="w-12 h-12 rounded-xl mt-4" />
           </div>
           </motion.div>
           

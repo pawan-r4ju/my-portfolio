@@ -9,7 +9,7 @@ const projects = [
     tags: ["React", "Tailwind CSS", "Poke Api"],
     github: "https://github.com/pawan-r4ju/Pokedex_Reactjs",
     demo: "https://pawan-r4ju.github.io/Pokedex_Reactjs/",
-    image: "pokemon",
+    image: "assets/pokedex.png",
   },
   {
     title: "THE MOVIES HUB",
@@ -18,7 +18,7 @@ const projects = [
     tags: ["React", "Node.js", "MongoDB", "Express.js"],
     github: "https://github.com/pawan-r4ju/movie-MERN-app",
     demo: "https://github.com/pawan-r4ju/movie-MERN-app/blob/main/thumb.png",
-    image: "thumb.png",
+    image: "assets/thumb.png",
   },
 
   {
@@ -28,7 +28,7 @@ const projects = [
     tags: ["React js", "Tailwind CSS"],
     github: "https://github.com/pawan-r4ju/hoobank",
     demo: "https://hoobank-85kn.onrender.com/",
-    image: "hoobank.png",
+    image: "assets/hoobank.png",
   },
   {
     title: "VIZARD",
@@ -37,7 +37,7 @@ const projects = [
     tags: ["JavaScript", "HTML", "CSS"],
     github: "https://github.com/nikhiltelase/image-search",
     demo: "https://pawan-r4ju.github.io/VIZARD/",
-    image: "vizard.png",
+    image: "assets/vizard.png",
   },
 ];
 
