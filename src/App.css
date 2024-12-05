@@ -1,0 +1,65 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%; /* Ensure responsiveness */
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms, transform 300ms; /* Added transition for scaling */
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+  transform: scale(1.05); /* Zoom effect on hover */
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+  transform: scale(1.05); /* React logo zoom effect */
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Added box shadow for depth */
+  border-radius: 8px; /* Rounded corners */
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* Improved mobile responsiveness */
+@media (max-width: 768px) {
+  #root {
+    padding: 1rem;
+  }
+
+  .logo {
+    height: 5em; /* Smaller logo on mobile */
+    padding: 1em;
+  }
+
+  .card {
+    padding: 1.5em; /* Adjust card padding for smaller screens */
+  }
+}
