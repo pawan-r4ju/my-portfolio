@@ -16,7 +16,7 @@ const navItems = [
 const socialLinks = [
   { icon: FaGithub, href: 'https://github.com/pawan-r4ju' },
   { icon: FaLinkedin, href: 'https://www.linkedin.com/in/pawanraju' },
-  { icon: SiGmail, href: 'mailto:example@gmail.com' },
+  { icon: SiGmail, href: 'mailto:pawaraju.dev@gmail.com' },
 ];
 
 function Navbar() {
