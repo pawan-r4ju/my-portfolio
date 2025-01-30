@@ -11,7 +11,6 @@ A modern personal portfolio website built with React and Vite, designed to showc
 - 🎨 **Smooth Animations**: Seamless transitions and interactions powered by Framer Motion.
 - 📂 **Project Showcase**: Highlighting featured projects with descriptions and links.
 - 🛠️ **Skills Section**: A detailed view of technologies and tools I specialize in.
-- 📧 **Contact Form**: Integrated with EmailJS for quick communication.
 - ⏳ **Timeline Component**: Visual representation of my career and education milestones.
 
 ## 🛠️ Technologies Used
